@@ -3,6 +3,8 @@ Thread é uma parte do código que pode ser executada independentemente do progr
 Esse projeto foi desenvolvido na formação: <a href="https://cursos.alura.com.br/course/javascript-threads-requisicoes-simultaneas">"Curso de
 JavaScript: trabalhando com threads para requisições simultâneas"</a>
 
+<a href="https://brdoliveira.github.io/js-threads-alura/"> -> Url para visualização </a>
+
 ## O que foi aprendido?
 - Fetch API
 - Threads
